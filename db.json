@@ -1,10 +1,10 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
       "description": "What a Good Burger!",
-      "image": "https://www.lovelesscafe.com/uploads/recipeimages/BBQBaconBurger-web.jpg"
+      "image": "https://www.seriouseats.com/recipes/images/2015/07/20150702-sous-vide-hamburger-anova-primary-1500x1125.jpg"
     },
     {
       "id": 2,
@@ -40,13 +40,13 @@
       "id": 7,
       "name": "HamBougie",
       "description": "Not Bad, But Bougie",
-      "image": "https://timedotcom.files.wordpress.com/2016/05/160528_gal_burger_blingburger.jpg"
+      "image": "https://i.insider.com/5d8ca1222e22af53447766c2?width=1100&format=jpeg&auto=webp"
     },
     {
       "id": 8,
       "name": "Green Eggs and Hamburger",
       "description": "Cooked by Sam",
-      "image": "https://stupiddope.com/wp-content/uploads/2016/05/mcdonalds-green-angry-birds-burger-01.jpg"
+      "image": "https://hhp-blog.s3.amazonaws.com/2019/07/burger.jpg"
     },
     {
       "id": 9,
@@ -65,6 +65,12 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "Garfield",
+      "description": "hi hi hi hi hi",
+      "image": "https://static01.nyt.com/images/2019/12/16/opinion/16renklWeb/merlin_160014837_2ea95092-db90-405d-b1ff-91b65d8431cb-superJumbo.jpg",
+      "id": 12
     }
   ]
 }
